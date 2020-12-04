@@ -1,0 +1,7 @@
+.navbar {
+display: grid;
+grid-template-columns: repeat(4,auto);
+background-color: Grey;
+grid-column-gap: -500px;
+color: brown;
+}
